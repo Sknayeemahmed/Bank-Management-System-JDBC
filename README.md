@@ -25,3 +25,11 @@ Developed a console-based Bank Management System using Java and JDBC following a
 * JDBC
 * MySQL
 * SQL
+  
+## ⚙️ How to Run  
+ 
+1. Clone the repository
+2. Open in Eclipse or IntelliJ
+3. Setup MySQL database (bank_db)
+4. Update DBConnection.java with your credentials
+5. Run BankManagementApp.java
